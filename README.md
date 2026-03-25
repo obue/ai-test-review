@@ -1,4 +1,4 @@
-# ai-test-review
+# AI Test Case Review
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Skill Status](https://img.shields.io/badge/Skill-Compliant-brightgreen)](#)
