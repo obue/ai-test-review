@@ -27,7 +27,7 @@ Inventories and processes all test files in logical order
 3. Apply comprehensive unit test quality rules
 
 ✅ **Anti-Pattern Detection**
-Scans for 25+ named failure modes common in AI-generated test suites
+Scans for 9 named failure modes common in AI-generated test suites
 
 ✅ **Actionable Reports**
 Per-file completion checklist with clear violations and fixes
@@ -178,7 +178,7 @@ ai-test-review/
 ├── README.md                         # This file
 ├── LICENSE                           # MIT License
 └── references/
-    ├── ai-antipatterns.md           # 25+ named anti-patterns with examples
+    ├── ai-antipatterns.md           # named anti-patterns with examples
     ├── unit-test-best-practices.md  # Quality rules and violations
     └── review-checklist.md          # Per-file checklist and report format
 ```
@@ -194,7 +194,7 @@ ai-test-review/
 
 The skill uses three companion guides:
 
-- **`references/ai-antipatterns.md`** - Catalog of 25+ anti-patterns with real examples
+- **`references/ai-antipatterns.md`** - Catalog of anti-patterns with real examples
 - **`references/unit-test-best-practices.md`** - Quality rules and enforcement guidance
 - **`references/review-checklist.md`** - Report format and completion criteria
 
